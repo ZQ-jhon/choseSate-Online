@@ -12,7 +12,7 @@
 			//css样式
 			sate.style.height =  '25px';
 			sate.style.width = '25px';
-			sate.style.background = 'gainsboro';
+			sate.style.background = 'white';
 			sate.style.border = '1px solid black';
 			sate.style.margin = '2px';
 			sate.style.float = 'left';
@@ -31,7 +31,7 @@
 			//获取当前选中的目标
 			 var target =  e.target; 
 			 
-			target.style.background = target.style.background=='gainsboro'?'yellow':'gainsboro';
+			target.style.background = target.style.background=='white'?'red':'white';
 			  
 			  
 		},false);
