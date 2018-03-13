@@ -1,4 +1,4 @@
-	<script type="text/javascript">
+
 	
 		
 		for(let i=0;i<900;i++){
@@ -37,4 +37,3 @@
 			  
 			  
 		},false);
-	</script>
