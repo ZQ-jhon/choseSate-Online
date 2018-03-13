@@ -1,6 +1,3 @@
-
-	
-		
 		for(let i=0;i<900;i++){
 			//创建座位
 			var sate = document.createElement('div');
@@ -19,6 +16,7 @@
 			sate.style.border = '1px solid black';
 			sate.style.margin = '2px';
 			sate.style.float = 'left';
+			sate.style.textAlign = 'center';
 			
 			//座位号
 			
