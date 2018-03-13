@@ -1,5 +1,5 @@
 <h1>预览</h1>
-(https://zq-jhon.github.io/chouseSate-Online/index.html)[https://zq-jhon.github.io/chouseSate-Online/index.html]<br>
+[预览地址：https://zq-jhon.github.io/chouseSate-Online/index.html](https://zq-jhon.github.io/chouseSate-Online/index.html)<br>
 
 <ul>
 <li>没有使用第三方库/插件。</li><br>
