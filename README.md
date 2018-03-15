@@ -1,5 +1,5 @@
 <h1>预览</h1>
-<a href="https://zq-jhon.github.io/chouseSate-Online/index.html" target="_blank">预览地址：https://zq-jhon.github.io/chouseSate-Online/index.html</a>
+<a href="https://zq-jhon.github.io/choseSate-Online/" target="_blank">预览地址：https://zq-jhon.github.io/choseSate-Online/</a>
 <ul>
 <li>没有使用第三方库/插件。</li><br>
 <li>适合手机/pad/pc浏览</li><br>
